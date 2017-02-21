@@ -1,4 +1,5 @@
 ###Digital Humanities Project Review: [Serendip-O-Matic](http://http://serendip-o-matic.com)
+####By Nan Denette
 
 ####Introduction
 
